@@ -73,7 +73,7 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	background-color: #B3B3B3;
+	background-image: url('test.jpg');
 	padding-top: 150px;
 	padding-bottom: 150px;
 }
@@ -158,7 +158,7 @@ ul li:hover a {
 	color: #FFFFFF;
 	text-align: right;
 	padding-right: 100px;
-	padding-top: 110px;
+	padding-top: 100px;
 	letter-spacing: 2px;
 	margin-top: 0px;
 }
@@ -236,19 +236,19 @@ footer .footer_column p {
 }
 .copyright {
 	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 	background-color: #717070;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
 	letter-spacing: 2px;
-	border-top-width: 2px;
+	border-top-width: 20px;
 }
 .footer_banner {
 	background-color: #B3B3B3;
 	padding-top: 60px;
-	padding-bottom: 60PX;
+	padding-bottom: 50PX;
 	margin-bottom: 0px;
 	background-image: url(../images/pattern.png);
 	background-repeat: repeat;
